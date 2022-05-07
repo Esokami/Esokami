@@ -30,7 +30,7 @@ Skills: JavaScript / REACT / JS / HTML / CSS / Python / SpringBoot / MySQL / Mon
 
 <details>
   <summary>:zap: GitHub Stats </summary>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esokami&show_icons=true)  
+  <img src="https://github-readme-stats.vercel.app/api?username=Esokami&show_icons=true"/>
 </details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Esokami)  
