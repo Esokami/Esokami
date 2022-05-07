@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Molly 👋
 
 <!--
 **Esokami/Esokami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I am a developer passionate in everything code and video games!
+
+
+Skills: JavaScript / REACT / JS / HTML / CSS / Python / SpringBoot / MySQL / MongoDB / Express / Node.JS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Esokami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mollica-es/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mollicaes.wixsite.com/gamedesign)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esokami)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esokami&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Esokami)  
+
