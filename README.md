@@ -5,7 +5,7 @@ Hi! I'm Molly, I am a developer passionate in everything code and video games!
 
 ## Skills and Experience
 * JavaScript, Java, Python, C#, HTML, CSS
-* React, SpringBoot, MySQL, MongoDB, Express, Node.JS
+* React, SpringBoot, Flask, MySQL, MongoDB, Express, Node.JS
 * Unity, Unreal
 
 ## Links
