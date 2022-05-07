@@ -23,9 +23,15 @@ Skills: JavaScript / REACT / JS / HTML / CSS / Python / SpringBoot / MySQL / Mon
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Esokami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mollica-es/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mollicaes.wixsite.com/gamedesign)  
 
+<details>
+  <summary>:zap: Top Languages </summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esokami)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
+<details>
+  <summary>:zap: GitHub Stats </summary>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esokami&show_icons=true)  
+</details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Esokami)  
 
