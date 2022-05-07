@@ -25,7 +25,7 @@ Skills: JavaScript / REACT / JS / HTML / CSS / Python / SpringBoot / MySQL / Mon
 
 <details>
   <summary>:zap: Top Languages </summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esokami)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esokami"/>
 </details>
 
 <details>
