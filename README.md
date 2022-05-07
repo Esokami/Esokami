@@ -8,7 +8,7 @@ Hi! I'm Molly, I am a developer passionate in everything code and video games!
 * React, SpringBoot, MySQL, MongoDB, Express, Node.JS
 * Unity, Unreal
 
-
+## Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Esokami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mollica-es/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mollicaes.wixsite.com/gamedesign)  
 
 <details>
@@ -21,5 +21,4 @@ Hi! I'm Molly, I am a developer passionate in everything code and video games!
   <img src="https://github-readme-stats.vercel.app/api?username=Esokami&show_icons=true"/>
 </details>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Esokami)  
 
