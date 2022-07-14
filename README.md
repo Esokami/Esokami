@@ -1,4 +1,4 @@
-<img src=""C:\Users\molli\Pictures\MountRainierBackground.png""/>
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQF-dljvpoUPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1594091134669?e=1663200000&v=beta&t=4JwRS81pVvfbawwcEDnjqny_vOfa5pJgixprIUVOdGE"/>
 
 # Molly Es
 Hi! I'm Molly, I am a developer passionate in everything code and video games!
