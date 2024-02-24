@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQF-dljvpoUPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1594091134669?e=1668643200&v=beta&t=8BKiJ0BOr6_aISYw81nhfSL1c8fvIs6bj9xgM6So7FQ"/>
+<img src="[https://media-exp1.licdn.com/dms/image/C5616AQF-dljvpoUPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1594091134669?e=1668643200&v=beta&t=8BKiJ0BOr6_aISYw81nhfSL1c8fvIs6bj9xgM6So7FQ](https://media.licdn.com/dms/image/C5616AQF-dljvpoUPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1594091135136?e=1714003200&v=beta&t=aGNPrmIATUEABGc-tOe1UvgZA-7tDh24Jxm89vpIi-U)"/>
 
 # Molly Es
 Hi! I'm Molly, I am a developer passionate in everything code and video games!
