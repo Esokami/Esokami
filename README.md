@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5616AQF-dljvpoUPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1594091135136?e=1714003200&v=beta&t=aGNPrmIATUEABGc-tOe1UvgZA-7tDh24Jxm89vpIi-U"/>
+<img width="776" alt="MountRainierBackground" src="https://github.com/Esokami/Esokami/assets/51794549/917f3655-cc4c-41f4-8d7a-8cca10865a1f"/>
 
 # Molly Es
 Hi! I'm Molly, I am a developer passionate in everything code and video games!
